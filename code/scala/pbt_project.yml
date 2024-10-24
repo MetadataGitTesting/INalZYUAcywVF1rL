@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: be2izrp6.41hwbx9w@eq5b4v5z.com
     createdAt: '2024-10-24 21:54:22'
     configurations:
-      pipelineConfigurations/krysta.strosin/Delpha_MayerEve_NingDale_Dickinson/dev:
-        name: dev
-        author: null
-        createdAt: '2024-10-24 21:54:22'
       pipelineConfigurations/krysta.strosin/Delpha_MayerEve_NingDale_Dickinson/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-10-24 21:54:22'
-      pipelineConfigurations/krysta.strosin/Delpha_MayerEve_NingDale_Dickinson/dev3:
-        name: dev3
         author: null
         createdAt: '2024-10-24 21:54:22'
     basePipeline: 58/pipelines/Delpha_MayerEve_NingDale_Dickinson
